@@ -1,173 +1,56 @@
-# oss
+# My open-source projects
 
-My list of open-source projects
+## Devlogs
 
-## All Public Repositories (165 total)
-
-Sorted by last activity (most recent first):
-
-- [use-state-with-ref](https://github.com/compulim/use-state-with-ref) - React useState hook with readonly RefObject
-- [oss](https://github.com/compulim/oss) - My list of open-source projects
-- [use-ref-from](https://github.com/compulim/use-ref-from) - React.useRef with an immediate setter and read-only value.
-- [inject-meta-tag](https://github.com/compulim/inject-meta-tag) - Injects <meta> into document header
-- [react-chain-of-responsibility](https://github.com/compulim/react-chain-of-responsibility) - Chain of responsibility design pattern for compositing and customizing React component.
-- [workflows](https://github.com/compulim/workflows) - Reusable workflows
-- [web-speech-cognitive-services](https://github.com/compulim/web-speech-cognitive-services) - Polyfill Web Speech API with Cognitive Services for both speech-to-text and text-to-speech service.
-- [version-from-git](https://github.com/compulim/version-from-git) - Bump package.json version to pre-release tagged with Git branch and short commit hash, 1.0.0-main.1a2b3c4
-- [use-memo-map](https://github.com/compulim/use-memo-map) - Memoizes calls to array map function similar to React.useMemo.
-- [react-dictate-button](https://github.com/compulim/react-dictate-button) - A button to start dictation using Web Speech API.
-- [react-scrolling-background](https://github.com/compulim/react-scrolling-background)
-- [use-schema-org-action](https://github.com/compulim/use-schema-org-action) - React hook for handling logics of Schema.org actions.
-- [react-define-as-custom-element](https://github.com/compulim/react-define-as-custom-element)
-- [respondable-event](https://github.com/compulim/respondable-event) - Enables event listeners to send response back to the event dispatcher.
-- [event-target-properties](https://github.com/compulim/event-target-properties) - Adds onevent property to EventTarget objects
-- [use-propagate](https://github.com/compulim/use-propagate) - Propagates an event to multiple subscribers using React hooks.
-- [react-say](https://github.com/compulim/react-say) - A React component that synthesis text into speech using Web Speech API.
-- [on-error-resume-next](https://github.com/compulim/on-error-resume-next) - Run a function, synchronously or asynchronously, and ignore errors.
-- [event-as-promise](https://github.com/compulim/event-as-promise) - Handle continuous steam of events in Promise fashion
-- [message-port-rpc](https://github.com/compulim/message-port-rpc) - Turns a MessagePort into an remote procedure call (RPC) stub
-- [react-wrap-with](https://github.com/compulim/react-wrap-with) - Wrap a React component in another component by Higher-Order Component.
-- [iter-fest](https://github.com/compulim/iter-fest) - A collection of utilities for iterations.
-- [generate-bump-changelog-action](https://github.com/compulim/generate-bump-changelog-action)
-- [atelier](https://github.com/compulim/atelier) - A gallery showcasing code crafted with artistic vision and meticulous craftsmanship.
-- [use-reduce-memo](https://github.com/compulim/use-reduce-memo)
-- [handler-chain](https://github.com/compulim/handler-chain) - A generic chain-of-responsibility design pattern.
-- [workflow-test-artifact](https://github.com/compulim/workflow-test-artifact) - Package for testing functionality of `@compulim/workflow`
-- [upload-to-onedrive](https://github.com/compulim/upload-to-onedrive) - GitHub action to upload a single file to OneDrive application folder.
 - [til](https://github.com/compulim/til) - Personal devlogs: 80% true at the time of writing
-- [webchat-loader](https://github.com/compulim/webchat-loader)
-- [adaptive-cards-decompiler](https://github.com/compulim/adaptive-cards-decompiler) - Decompiles a HTML rendered by Adaptive Cards back to its JSON.
-- [app-qr-code-share-target](https://github.com/compulim/app-qr-code-share-target) - Shares links/texts as QR Code
-- [app-video-transcode](https://github.com/compulim/app-video-transcode)
-- [compulim-experiment-webchat-markdown-render](https://github.com/compulim/compulim-experiment-webchat-markdown-render)
-- [react-scripts-ts](https://github.com/compulim/react-scripts-ts)
-- [react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom) - React container that will auto scroll to bottom
-- [with-doppelganger](https://github.com/compulim/with-doppelganger) - React higher-order component for creating doppelganger for HTML input controls
-- [autohotkey-boss-fs-1-wl](https://github.com/compulim/autohotkey-boss-fs-1-wl) - AutoHotKey scripts for BOSS FS-1-WL Wireless Footswitch
-- [test-webchat-templatebot](https://github.com/compulim/test-webchat-templatebot)
-- [did](https://github.com/compulim/did) - Do it differently
-- [webchat-relaybot](https://github.com/compulim/webchat-relaybot)
-- [BotFramework-MockBot](https://github.com/compulim/BotFramework-MockBot) - MockBot for testing all features of Web Chat
-- [vscode-ipaddress](https://github.com/compulim/vscode-ipaddress) - Shows and inserts IP address to Visual Studio Code
-- [abort-controller-es5](https://github.com/compulim/abort-controller-es5) - ES5 version of abort-controller package
-- [build-a-timelapse](https://github.com/compulim/build-a-timelapse) - Build a timelapse
-- [config](https://github.com/compulim/config) - Keep my favorites set of configuration
-- [use-read-alert](https://github.com/compulim/use-read-alert)
-- [webchat-mockbot2](https://github.com/compulim/webchat-mockbot2)
-- [markdown-it-attrs-es5](https://github.com/compulim/markdown-it-attrs-es5) - ES5 version of markdown-it-attrs
-- [p-defer-es5](https://github.com/compulim/p-defer-es5) - ES5 version of p-defer
-- [event-target-shim-es5](https://github.com/compulim/event-target-shim-es5) - ES5 wrapper for event-target-shim
-- [botframework-waterbottle](https://github.com/compulim/botframework-waterbottle) - Bot for testing DirectLineJS
-- [playpen-textarea-doppelganger](https://github.com/compulim/playpen-textarea-doppelganger)
-- [botframework-webchat-repro-2804](https://github.com/compulim/botframework-webchat-repro-2804)
+
+## Packages
+
+### Tier 1 (actively maintained)
+
+- [atelier](https://github.com/compulim/atelier) - A gallery showcasing code crafted with artistic vision and meticulous craftsmanship.
+- [event-as-promise](https://github.com/compulim/event-as-promise) - Handle continuous steam of events in Promise fashion
+- [event-target-properties](https://github.com/compulim/event-target-properties) - Adds onevent property to EventTarget objects
+- [handler-chain](https://github.com/compulim/handler-chain) - A generic chain-of-responsibility design pattern.
+- [inject-meta-tag](https://github.com/compulim/inject-meta-tag) - Injects <meta> into document header
+- [iter-fest](https://github.com/compulim/iter-fest) - A collection of utilities for iterations.
+- [message-port-rpc](https://github.com/compulim/message-port-rpc) - Turns a MessagePort into an remote procedure call (RPC) stub
+- [on-error-resume-next](https://github.com/compulim/on-error-resume-next) - Run a function, synchronously or asynchronously, and ignore errors.
+- [react-chain-of-responsibility](https://github.com/compulim/react-chain-of-responsibility) - Chain of responsibility design pattern for compositing and customizing React component.
+- [react-define-as-custom-element](https://github.com/compulim/react-define-as-custom-element)
+- [react-dictate-button](https://github.com/compulim/react-dictate-button) - A button to start dictation using Web Speech API.
+- [react-say](https://github.com/compulim/react-say) - A React component that synthesis text into speech using Web Speech API.
+- [react-scrolling-background](https://github.com/compulim/react-scrolling-background)
+- [react-wrap-with](https://github.com/compulim/react-wrap-with) - Wrap a React component in another component by Higher-Order Component.
+- [respondable-event](https://github.com/compulim/respondable-event) - Enables event listeners to send response back to the event dispatcher.
+- [use-memo-map](https://github.com/compulim/use-memo-map) - Memoizes calls to array map function similar to React.useMemo.
+- [use-propagate](https://github.com/compulim/use-propagate) - Propagates an event to multiple subscribers using React hooks.
+- [use-reduce-memo](https://github.com/compulim/use-reduce-memo)
+- [use-ref-from](https://github.com/compulim/use-ref-from) - React.useRef with an immediate setter and read-only value.
+- [use-schema-org-action](https://github.com/compulim/use-schema-org-action) - React hook for handling logics of Schema.org actions.
+- [use-state-with-ref](https://github.com/compulim/use-state-with-ref) - React useState hook with readonly RefObject
+- [version-from-git](https://github.com/compulim/version-from-git) - Bump package.json version to pre-release tagged with Git branch and short commit hash, 1.0.0-main.1a2b3c4
+- [web-speech-cognitive-services](https://github.com/compulim/web-speech-cognitive-services) - Polyfill Web Speech API with Cognitive Services for both speech-to-text and text-to-speech service.
+
+### Tier 1.5 (need to upgrade)
+
 - [auto-reset-event](https://github.com/compulim/auto-reset-event) - An acquire-release one semantic implemented in Promise.
 - [has-resolved](https://github.com/compulim/has-resolved) - Checks if a Promise is resolved or rejected asynchronously
-- [simple-update-in](https://github.com/compulim/simple-update-in) - Immutable update-in with zero dependencies
-- [botframework-webchat-chat-adapter](https://github.com/compulim/botframework-webchat-chat-adapter)
-- [hackathon-app-chat](https://github.com/compulim/hackathon-app-chat)
-- [botframework-directlinejs-speech](https://github.com/compulim/botframework-directlinejs-speech)
-- [react-hooks-component-under-babel-standalone](https://github.com/compulim/react-hooks-component-under-babel-standalone) - React Hooks component library running under Babel Standalone
-- [todobot](https://github.com/compulim/todobot)
-- [hackathon-2019-jmb](https://github.com/compulim/hackathon-2019-jmb) - Hackathon 2019: Japan Mileage Bank application form bot
-- [botframework-webchat-trend](https://github.com/compulim/botframework-webchat-trend)
-- [react-sanitized-html](https://github.com/compulim/react-sanitized-html) - A React component that will sanitize user-inputted HTML code, using the popular sanitize-html package
-- [promise-race-map](https://github.com/compulim/promise-race-map) - Promise.race implementation to works with a JavaScript map
-- [memoize-one-with-dispose](https://github.com/compulim/memoize-one-with-dispose) - A memoization function with cache of one and disposing function
-- [compulim-info](https://github.com/compulim/compulim-info) - Website for compulim.info
-- [lock-walker](https://github.com/compulim/lock-walker) - Visualize dependency tree in package-lock.json
-- [actioncam-timelapse](https://github.com/compulim/actioncam-timelapse) - Node.js script to convert JPEG sequence into h.265
-- [bot-proxy](https://github.com/compulim/bot-proxy)
-- [deepdive-react-hooks-3](https://github.com/compulim/deepdive-react-hooks-3)
-- [deepdive-react-hooks-2](https://github.com/compulim/deepdive-react-hooks-2)
-- [deepdive-react-hooks-1](https://github.com/compulim/deepdive-react-hooks-1)
-- [crbug-talkback-nested-focusable](https://github.com/compulim/crbug-talkback-nested-focusable)
-- [qrcode](https://github.com/compulim/qrcode)
-- [exercise-nan-todo](https://github.com/compulim/exercise-nan-todo)
-- [temp-cra1](https://github.com/compulim/temp-cra1)
-- [adaptive-card-loader](https://github.com/compulim/adaptive-card-loader) - Quickly preview an Adaptive Card
-- [publish-cra-to-gh-pages](https://github.com/compulim/publish-cra-to-gh-pages)
-- [acme-http-01-azure-key-vault-middleware](https://github.com/compulim/acme-http-01-azure-key-vault-middleware)
-- [hackathon-webchat-web-push](https://github.com/compulim/hackathon-webchat-web-push) - Using Web Push chat adapter for Web Chat
-- [vscode-dictionary](https://github.com/compulim/vscode-dictionary) - Visual Studio Code extension to lookup text in dictionary and thesaurus
-- [compulim](https://github.com/compulim/compulim)
+- [react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom) - React container that will auto scroll to bottom
+- [upload-to-onedrive](https://github.com/compulim/upload-to-onedrive) - GitHub action to upload a single file to OneDrive application folder.
+- [with-doppelganger](https://github.com/compulim/with-doppelganger) - React higher-order component for creating doppelganger for HTML input controls
+
+### Tier 2 (need rework)
+
 - [azure-storage-fs](https://github.com/compulim/azure-storage-fs) - A drop-in "fs" replacement for accessing Azure Storage with Node.js "fs" API
-- [vscode-clock](https://github.com/compulim/vscode-clock) - Displays clock in status bar in Visual Studio Code
-- [webchat-bugbash-dlspeech](https://github.com/compulim/webchat-bugbash-dlspeech)
-- [webchat-bugbash-dlspeech-bot](https://github.com/compulim/webchat-bugbash-dlspeech-bot)
-- [password-generator](https://github.com/compulim/password-generator)
-- [vscode-qrcode](https://github.com/compulim/vscode-qrcode) - Visual Studio Code extension for generating QR code
-- [azure-webapp-for-containers-template](https://github.com/compulim/azure-webapp-for-containers-template) - Template for creating an Azure Web App for Containers with Travis CI
-- [vscode-chinese-translation](https://github.com/compulim/vscode-chinese-translation) - Translates between Traditional Chinese and Simplified Chinese in Visual Studio Code
-- [redux-saga-demo](https://github.com/compulim/redux-saga-demo)
-- [pitch-black-webchat](https://github.com/compulim/pitch-black-webchat) - A pitch black experience.
-- [bookstore](https://github.com/compulim/bookstore) - A data storage pattern for Azure Blob Storage
-- [ga-test](https://github.com/compulim/ga-test) - Playground for testing Google Analytics
-- [request-reply-directlinejs](https://github.com/compulim/request-reply-directlinejs)
-- [botframework-virtual-assistant-demo](https://github.com/compulim/botframework-virtual-assistant-demo) - Virtual Assistant demo for Bot Framework
-- [BotFramework-WebChat-Curator](https://github.com/compulim/BotFramework-WebChat-Curator) - Curate build from Travis for Web Chat
-- [chatdown-files](https://github.com/compulim/chatdown-files)
-- [chatdown-imaginator](https://github.com/compulim/chatdown-imaginator)
-- [botframework-virtual-assistant-template](https://github.com/compulim/botframework-virtual-assistant-template)
-- [BotFramework-WebChat-Repro-1198](https://github.com/compulim/BotFramework-WebChat-Repro-1198)
-- [docker-bot](https://github.com/compulim/docker-bot) - Template for developing bot with Docker and Bot Framework Emulator
-- [vscode-express](https://github.com/compulim/vscode-express) - Hosts current workspace in Express
-- [BotFramework-Samples-PreserveHistory](https://github.com/compulim/BotFramework-Samples-PreserveHistory)
-- [BotFramework-Samples-Template](https://github.com/compulim/BotFramework-Samples-Template)
-- [travis-encrypt](https://github.com/compulim/travis-encrypt) - Simple React web app to encrypt secret for Travis CI
-- [le-store-fs](https://github.com/compulim/le-store-fs) - File System based storage for Greenlock
-- [commit-publish](https://github.com/compulim/commit-publish)
-- [websocket-util](https://github.com/compulim/websocket-util) - Helper utilities for multiple Web Socket packages
-- [messageport-websocket](https://github.com/compulim/messageport-websocket) - Turns HTML MessagePort into HTML WebSocket
-- [electron-ipcrenderer-messageport](https://github.com/compulim/electron-ipcrenderer-messageport) - Turns Electron IPCRenderer into MessagePort
-- [electron-ipcmain-messageport](https://github.com/compulim/electron-ipcmain-messageport) - Turns Electron IPCMain into HTML MessagePort
-- [childprocess-websocket](https://github.com/compulim/childprocess-websocket) - Turns ChildProcess IPC into WebSocket
-- [childprocess-messageport](https://github.com/compulim/childprocess-messageport) - Turns ChildProcess IPC into MessagePort
-- [react-drop-to-upload](https://github.com/compulim/react-drop-to-upload) - A simple React component for "drop-to-upload" feature
-- [react-component-template-ts](https://github.com/compulim/react-component-template-ts) - My React component template in TypeScript
-- [react-component-template](https://github.com/compulim/react-component-template) - My React component template
-- [vscode-botframework](https://github.com/compulim/vscode-botframework)
-- [vscode-closetag](https://github.com/compulim/vscode-closetag) - Quickly close last opened HTML/XML tag in Visual Studio Code
-- [webrtc-test](https://github.com/compulim/webrtc-test)
-- [node-opencc](https://github.com/compulim/node-opencc) - OpenCC implementation for pure Node.js
-- [generator-babel-typescript](https://github.com/compulim/generator-babel-typescript) - TypeScript package transpiled with Babel using babel-preset-typescript and works with Jest
-- [babel-typescript-scaffold](https://github.com/compulim/babel-typescript-scaffold) - My own scaffold for compiling TypeScript using Babel in a modern way.
-- [webapp-template](https://github.com/compulim/webapp-template) - My most up-to-date web app architecture
-- [redux-websocket-bridge](https://github.com/compulim/redux-websocket-bridge) - Bridge WebSocket messages and Redux actions
-- [react-accent-color](https://github.com/compulim/react-accent-color) - Accent color palette for React components
-- [react-accent-color-testbed](https://github.com/compulim/react-accent-color-testbed) - Testbed for react-accent-color
-- [react-drop-to-upload-testbed](https://github.com/compulim/react-drop-to-upload-testbed) - Testbed for react-drop-to-upload component
-- [react-sanitized-html-testbed](https://github.com/compulim/react-sanitized-html-testbed) - Testbed for react-sanitized-html
-- [react-augmentation](https://github.com/compulim/react-augmentation) - DOM augmentation operators to simplify UI code and promote data-driven DOM hierarchy
-- [react-augmentation-sandbox](https://github.com/compulim/react-augmentation-sandbox)
-- [webchat-sandbox](https://github.com/compulim/webchat-sandbox) - Sandbox web app for hosting Web Chat
-- [docker-msbuild](https://github.com/compulim/docker-msbuild) - MSBuild 2017 for Windows Container
+- [generate-bump-changelog-action](https://github.com/compulim/generate-bump-changelog-action)
 - [opencc-loader](https://github.com/compulim/opencc-loader) - Webpack loader for converting Traditional Chinese into Simplified Chinese (and vice versa).
-- [docker-nanoserver-node](https://github.com/compulim/docker-nanoserver-node) - Windows Server 2016 Nano Server with Node.js
-- [docker-iisnode](https://github.com/compulim/docker-iisnode) - Dockerfile for iisnode
-- [docs](https://github.com/compulim/docs) - Documents
-- [basic-http-proxy](https://github.com/compulim/basic-http-proxy) - Basic HTTP/S proxy that simply works
-- [captureproxy](https://github.com/compulim/captureproxy)
-- [generator-azure-web-app](https://github.com/compulim/generator-azure-web-app) - Web site template with React, Webpack, hot module replacement, and Express. MSDeploy to prepare deployment for Azure Web Apps.
-- [repro-kudu-iisnode-yml](https://github.com/compulim/repro-kudu-iisnode-yml)
-- [webapp-example](https://github.com/compulim/webapp-example)
-- [aahk-careerexpo2017-cms](https://github.com/compulim/aahk-careerexpo2017-cms) - AAHK CareerExpo 2017 CMS
-- [react-carousel](https://github.com/compulim/react-carousel)
-- [uncork](https://github.com/compulim/uncork) - SSH-over-HTTPS proxy that works like Unix "corkscrew"
-- [sandbox-azure-web-app](https://github.com/compulim/sandbox-azure-web-app)
-- [codeaholics-office-ui-fabric-demo](https://github.com/compulim/codeaholics-office-ui-fabric-demo) - Codeaholics meetup: Office UI Fabric demo
-- [azure-deployazure-fn](https://github.com/compulim/azure-deployazure-fn) - Azure function for deployazure.azurewebsites.net
-- [gulp-remotebuild](https://github.com/compulim/gulp-remotebuild) - Gulp plug-in to build Cordova iOS app remotely using Visual Studio Tools for Apache Cordova
-- [azure-iot-alexa-smart-home-skill](https://github.com/compulim/azure-iot-alexa-smart-home-skill) - Alexa Smart Home Skill for devices on Azure IoT
-- [codeaholics-iot-demo](https://github.com/compulim/codeaholics-iot-demo) - Codeaholics meetup: Alexa + Azure IoT + Arduino
-- [gm-image-tile](https://github.com/compulim/gm-image-tile) - Creates image tiles with Graphicsmagick in Node.js
 - [promise-critical-section](https://github.com/compulim/promise-critical-section) - Critical section in Promise fashion
-- [vscode-mocha](https://github.com/compulim/vscode-mocha) - Runs Mocha tests inside Visual Studio Code
-- [azure-blob-ftpd](https://github.com/compulim/azure-blob-ftpd) - A FTP server for Azure Storage Blob
-- [vscode-azure-storage-utility](https://github.com/compulim/vscode-azure-storage-utility) - Generates Shared Access Signature for Azure Storage
-- [gwab-webapp](https://github.com/compulim/gwab-webapp) - My first Azure Web App
-- [vscode-indent-4to2](https://github.com/compulim/vscode-indent-4to2) - Visual Studio Code extension to convert indentation of tab or 4 spaces into 2 spaces
-- [vscode-swapline](https://github.com/compulim/vscode-swapline) - Swap line up and down in Visual Studio Code
-- [promise-pipe](https://github.com/compulim/promise-pipe) - Chain promise functions in an elegant way
-- [crawl-fs](https://github.com/compulim/crawl-fs) - Recursively crawl the content of a folder
-- [react-async-pessimistic](https://github.com/compulim/react-async-pessimistic) - React with async action in pessimistic concurrency fashion
-- [synctv](https://github.com/compulim/synctv) - Sync TV .M4V to tablet
+- [promise-race-map](https://github.com/compulim/promise-race-map) - Promise.race implementation to works with a JavaScript map
+- [react-drop-to-upload](https://github.com/compulim/react-drop-to-upload) - A simple React component for "drop-to-upload" feature
+- [simple-update-in](https://github.com/compulim/simple-update-in) - Immutable update-in with zero dependencies
+
+## Non-packages
+
+- [webchat-loader](https://github.com/compulim/webchat-loader)
+- [workflows](https://github.com/compulim/workflows) - Reusable workflows
