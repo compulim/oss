@@ -3,6 +3,7 @@
 ## Devlogs
 
 - [til](https://github.com/compulim/til) - Personal devlogs: 80% true at the time of writing
+- [did](https://github.com/compulim/did) - Do it differently
 
 ## Packages
 
