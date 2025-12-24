@@ -10,9 +10,11 @@
 ### Tier 1 (actively maintained)
 
 - [atelier](https://github.com/compulim/atelier) - A gallery showcasing code crafted with artistic vision and meticulous craftsmanship.
+- [auto-reset-event](https://github.com/compulim/auto-reset-event) - An acquire-release one semantic implemented in Promise.
 - [event-as-promise](https://github.com/compulim/event-as-promise) - Handle continuous steam of events in Promise fashion
 - [event-target-properties](https://github.com/compulim/event-target-properties) - Adds onevent property to EventTarget objects
 - [handler-chain](https://github.com/compulim/handler-chain) - A generic chain-of-responsibility design pattern.
+- [has-resolved](https://github.com/compulim/has-resolved) - Checks if a Promise is resolved or rejected asynchronously
 - [inject-meta-tag](https://github.com/compulim/inject-meta-tag) - Injects <meta> into document header
 - [iter-fest](https://github.com/compulim/iter-fest) - A collection of utilities for iterations.
 - [message-port-rpc](https://github.com/compulim/message-port-rpc) - Turns a MessagePort into an remote procedure call (RPC) stub
@@ -35,8 +37,6 @@
 
 ### Tier 1.5 (need to upgrade)
 
-- [auto-reset-event](https://github.com/compulim/auto-reset-event) - An acquire-release one semantic implemented in Promise.
-- [has-resolved](https://github.com/compulim/has-resolved) - Checks if a Promise is resolved or rejected asynchronously
 - [react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom) - React container that will auto scroll to bottom
 - [upload-to-onedrive](https://github.com/compulim/upload-to-onedrive) - GitHub action to upload a single file to OneDrive application folder.
 - [with-doppelganger](https://github.com/compulim/with-doppelganger) - React higher-order component for creating doppelganger for HTML input controls
