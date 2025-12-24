@@ -26,7 +26,7 @@
 - [respondable-event](https://github.com/compulim/respondable-event) - Enables event listeners to send response back to the event dispatcher.
 - [use-memo-map](https://github.com/compulim/use-memo-map) - Memoizes calls to array map function similar to React.useMemo.
 - [use-propagate](https://github.com/compulim/use-propagate) - Propagates an event to multiple subscribers using React hooks.
-- [use-reduce-memo](https://github.com/compulim/use-reduce-memo)
+- [use-reduce-memo](https://github.com/compulim/use-reduce-memo) - React hook to cache the result of a reduce function between re-renders
 - [use-ref-from](https://github.com/compulim/use-ref-from) - React.useRef with an immediate setter and read-only value.
 - [use-schema-org-action](https://github.com/compulim/use-schema-org-action) - React hook for handling logics of Schema.org actions.
 - [use-state-with-ref](https://github.com/compulim/use-state-with-ref) - React useState hook with readonly RefObject
