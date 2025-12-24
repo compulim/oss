@@ -38,8 +38,11 @@
 ### Tier 1.5 (need to upgrade)
 
 - [react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom) - React container that will auto scroll to bottom
+   - Need a HTML-based UI test framework
 - [upload-to-onedrive](https://github.com/compulim/upload-to-onedrive) - GitHub action to upload a single file to OneDrive application folder.
+   - Need a test framework for GitHub actions
 - [with-doppelganger](https://github.com/compulim/with-doppelganger) - React higher-order component for creating doppelganger for HTML input controls
+   - Not code complete
 
 ### Tier 2 (need rework)
 
