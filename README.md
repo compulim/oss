@@ -37,6 +37,8 @@
 
 ### Tier 1.5 (need to upgrade)
 
+- [react-film](https://github.com/spyip/react-film) - React component for showing carousel just like a film strip
+   - Need a HTML-based UI test framework
 - [react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom) - React container that will auto scroll to bottom
    - Need a HTML-based UI test framework
 - [upload-to-onedrive](https://github.com/compulim/upload-to-onedrive) - GitHub action to upload a single file to OneDrive application folder.
