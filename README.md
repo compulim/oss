@@ -58,5 +58,5 @@
 
 ## Non-packages
 
-- [webchat-loader](https://github.com/compulim/webchat-loader)
-- [workflows](https://github.com/compulim/workflows) - Reusable workflows
+- [webchat-loader](https://github.com/compulim/webchat-loader) - Playground for [Web Chat](https://github.com/microsoft/botframework-webchat/)
+- [workflows](https://github.com/compulim/workflows) - My reusable workflows
