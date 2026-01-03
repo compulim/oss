@@ -34,8 +34,8 @@
 | [use-ref-from](https://github.com/compulim/use-ref-from)                                     | React.useRef with an immediate setter and read-only value.                                                | ✅              |
 | [use-schema-org-action](https://github.com/compulim/use-schema-org-action)                   | React hook for handling logics of Schema.org actions.                                                     | ✅              |
 | [use-state-with-ref](https://github.com/compulim/use-state-with-ref)                         | React useState hook with readonly RefObject                                                               | ✅              |
-| [version-from-git](https://github.com/compulim/version-from-git)                             | Bump package.json version to pre-release tagged with Git branch and short commit hash, 1.0.0-main.1a2b3c4 | ⌛              |
-| [web-speech-cognitive-services](https://github.com/compulim/web-speech-cognitive-services)   | Polyfill Web Speech API with Cognitive Services for both speech-to-text and text-to-speech service.       |                 |
+| [version-from-git](https://github.com/compulim/version-from-git)                             | Bump package.json version to pre-release tagged with Git branch and short commit hash, 1.0.0-main.1a2b3c4 | ✅              |
+| [web-speech-cognitive-services](https://github.com/compulim/web-speech-cognitive-services)   | Polyfill Web Speech API with Cognitive Services for both speech-to-text and text-to-speech service.       | ✅              |
 
 ### Tier 1.5 (need to upgrade)
 
